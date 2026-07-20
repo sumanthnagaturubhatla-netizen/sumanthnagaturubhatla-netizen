@@ -18,11 +18,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Django Applications**
-- 🌱 I'm learning **Cloud Deployment, DevOps & Advanced AI/ML**
-- 💬 Ask me about **Python, Django, JavaScript, WebRTC, REST APIs**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/naga-sumanth-turubhatla-736525321)**
-- ⚡ Fun fact: I love turning complex problems into clean, efficient solutions!
+I'm a **Full Stack Web Developer** who doesn't just write code — I build solutions that make a real impact. From turning an Android phone into a full SMS gateway to architecting real-time video conferencing systems, I thrive on solving problems that others call "too complex." I also create content across **YouTube**, **Medium**, and **Instagram** to share my dev journey and help fellow developers level up! 🎬✍️📸
+
+- 🔥 Currently building **production-grade Django applications** and exploring **AI/ML integrations**
+- 🎥 Content Creator on **[YouTube](https://youtube.com)** | **[Medium](https://medium.com)** | **[Instagram](https://instagram.com)** — tutorials, dev tips & behind-the-scenes coding
+- ☕ I debug best after my third cup of coffee
+- 🧩 I believe every bug is just a puzzle waiting to be solved
+- 🚀 My motto: *"Ship it, learn from it, improve it"*
+- 🎮 When I'm not coding, you'll find me gaming or binge-watching tech documentaries
 
 ---
 
@@ -69,6 +72,15 @@
   </a>
   <a href="https://sumanthnagaturubhatla-netizen.github.io/Personal-Portfolio/Personal-portfolio.html">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://medium.com">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
