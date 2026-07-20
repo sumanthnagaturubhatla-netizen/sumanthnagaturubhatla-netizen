@@ -79,12 +79,12 @@ I'm a **Full Stack Web Developer** who doesn't just write code — I build solut
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthnagaturubhatla-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthnagaturubhatla-netizen&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthnagaturubhatla-netizen&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthnagaturubhatla-netizen&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthnagaturubhatla-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthnagaturubhatla-netizen&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
 
 ---
