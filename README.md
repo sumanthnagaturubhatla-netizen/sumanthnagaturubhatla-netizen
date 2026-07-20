@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumanthnagaturubhatla-netizen&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
@@ -115,10 +119,6 @@ I'm a **Full Stack Web Developer** who doesn't just write code — I build solut
   <a href="https://instagram.com">
     <img src="https://img.shields.io/badge/Instagram-1K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanthnagaturubhatla-netizen&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
