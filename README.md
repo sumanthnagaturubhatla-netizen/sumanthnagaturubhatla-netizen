@@ -121,6 +121,10 @@ I'm a **Full Stack Web Developer** who doesn't just write code — I build solut
   </a>
 </p>
 
+<p align="center">
+  👨‍💻 <i>"Always open to collaborating on open-source projects, sharing knowledge, and building products that solve real-world problems. Let's create something amazing together!"</i>
+</p>
+
 ---
 
 <p align="center">
