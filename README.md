@@ -79,7 +79,7 @@ I'm a **Full Stack Web Developer** who doesn't just write code — I build solut
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumanthnagaturubhatla-netizen&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumanthnagaturubhatla-netizen&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
