@@ -83,17 +83,11 @@ I'm a **Full Stack Web Developer** who doesn't just write code — I build solut
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumanthnagaturubhatla-netizen&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthnagaturubhatla-netizen&theme=radical" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthnagaturubhatla-netizen&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthnagaturubhatla-netizen&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthnagaturubhatla-netizen&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthnagaturubhatla-netizen&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="55%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthnagaturubhatla-netizen&theme=radical&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="85%" />
 </p>
 
 ---
