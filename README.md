@@ -22,7 +22,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Full Stack Web Developer** who does not just write code — I build solutions that make a real impact. From turning an Android phone into a full SMS gateway to architecting real-time video conferencing systems, I thrive on solving problems that others call "too complex." I also create content across **YouTube**, **Medium**, and **Instagram** to share my dev journey and help fellow developers level up! 🎬✍️📸
+I'm a **Full Stack Web Developer** who does just write code — I build solutions that make a real impact. From turning an Android phone into a full SMS gateway to architecting real-time video conferencing systems, I thrive on solving problems that others call "too complex." I also create content across **YouTube**, **Medium**, and **Instagram** to share my dev journey and help fellow developers level up! 🎬✍️📸
 
 - 🔥 Currently building **production-grade Django applications** and exploring **AI/ML integrations**
 - 🎥 Content Creator on **[YouTube](https://youtube.com)** | **[Medium](https://medium.com)** | **[Instagram](https://instagram.com)** — tutorials, dev tips & behind-the-scenes coding
